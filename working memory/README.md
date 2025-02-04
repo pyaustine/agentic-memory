@@ -1,5 +1,7 @@
 # Working Memory
 
+<img src="./mediaworking_memory.png" width=600>
+
 **[Working Memory Model (Baddeley and Hitch)](https://www.simplypsychology.org/working-memory.html)**
 
 Working memory encompasses your active understanding and contextualization of immediate information requiring dynamic processing. For a chatbot, this represents the maintenance and manipulation of conversational context observed throughout real-time interactions.
