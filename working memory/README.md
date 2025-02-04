@@ -1,11 +1,6 @@
 # Working Memory
 
 <img src="../media/working_memory.png" width=400>
-<<<<<<< HEAD
-
-> > > > > > > 69fe50ab420ccf1638891e58fae0d505eaedbfe0
-=======
->>>>>>> faad498a43054c0256c9dbba32c63c31784da6e1
 
 **[Working Memory Model (Baddeley and Hitch)](https://www.simplypsychology.org/working-memory.html)**
 
