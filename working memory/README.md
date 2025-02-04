@@ -1,6 +1,6 @@
 # Working Memory
 
-<img src="./media/working_memory.png" width=600>
+<img src="../media/working_memory.png" width=600>
 
 **[Working Memory Model (Baddeley and Hitch)](https://www.simplypsychology.org/working-memory.html)**
 
