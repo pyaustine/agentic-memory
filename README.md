@@ -1,4 +1,4 @@
-# agentic-memory
+# Agentic memory - Can LLMs *Really* Think?
 
 ### *[Cognitive Architectures for Language Agents, 2024](https://arxiv.org/pdf/2309.02427)*
 
