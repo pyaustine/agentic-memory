@@ -15,4 +15,4 @@ LLMs sort of have some memory, mostly their general knowledge or traits picked u
   - **Semantic Memory** - Knowledge context and factual grounding
   - **Procedural Memory** - The "rules" and "skills" for interaction
   
-These four memory systems provide a holistic approach to understanding and architecting a part of cognitive design into an agent application. In this notebook we'll break down each type of memory and an example approach to implementing them into a whole agent experience.
+These four memory systems provide a holistic approach to understanding and architecting a part of cognitive design into an agent application. In this repository we'll break down each type of memory and an example approach to implementing them into a whole agent experience.
