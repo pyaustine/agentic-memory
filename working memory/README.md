@@ -34,3 +34,5 @@ Remembering from working memory involves direct access to recent contextual data
 Learning in working memory operates through continuous state updates during conversational processing. The system dynamically integrates new messages into the active context, updates state representations, modifies goal parameters, and maintains temporal coherence across the interaction. This real-time learning process differs fundamentally from the persistent storage mechanisms of episodic and semantic memory systems.
 
 Working memory functions as the active computational interface, coordinating information flow between episodic experience retrieval and semantic knowledge access while maintaining precise state awareness of the current interaction.
+
+<img src="../media/working_diagram.png" width=400>
