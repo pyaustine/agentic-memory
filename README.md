@@ -1,5 +1,7 @@
 # Agentic memory - Can LLMs *Really* Think?
 
+<img src="./media/memory.png" width=600>
+
 ### *[Cognitive Architectures for Language Agents, 2024](https://arxiv.org/pdf/2309.02427)*
 
 LLMs are considered "stateless" in that every time you invoke an LLM call, it is like the first time it's ever seen the input being passed through. Given this quirk, multi-turn LLM agents have a unique challenge to overcome with fully understanding and navigating a vast world model which we humans do naturally.
