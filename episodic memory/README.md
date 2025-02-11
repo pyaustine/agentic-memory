@@ -1,3 +1,7 @@
+# Episodic Memory
+
+<img src="../media/episodic_memory.png" width=400>
+
 _[Tell me why: the missing w in episodic memory’s what, where, and when](https://link.springer.com/article/10.3758/s13415-024-01234-4)_
 
 Episodic memory is a historical collection of prior experiences, or episodes. This can be both the literal recollection of how something happened and also any non-explicitly stated takeaways. When encountering a specific situation, you may recall similar related events that you've been in and their outcomes, which shape the way we approach new, comparable experiences.
